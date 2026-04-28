@@ -6,7 +6,7 @@ DataViz is a modern web application that helps you convert raw data into stunnin
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
 ✨ Upload CSV / dataset files  
 📈 Generate multiple chart types (Bar, Line, Pie, etc.)  
